@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Jamys's First Github Page
 
 You can use the [editor on GitHub](https://github.com/jsolosky735/TestPracticeJS/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
